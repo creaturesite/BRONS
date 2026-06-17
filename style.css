@@ -216,5 +216,22 @@ text-decoration: underline;
     text-align: center;
     font-family: Arial;
 }
+.Subtitle
+{
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 50px;
+     opacity: 1;
+    transform: translateY(30px);
+    transition: 1s;
+
+   
+}
+.hero_content
+{
+    opacity: 1;
+    transform: translateY(30px);
+    transition: 1s;
+}
 
     }
