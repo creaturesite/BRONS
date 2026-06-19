@@ -224,6 +224,8 @@ text-decoration: underline;
      opacity: 1;
     transform: translateY(30px);
     transition: 1s;
+    margin-top: 30px;
+    padding-top: 0;
 
    
 }
@@ -233,5 +235,39 @@ text-decoration: underline;
     transform: translateY(30px);
     transition: 1s;
 }
-
+.book 
+{
+    margin-top: 100px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding: 20px 20px;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    outline: 1px solid white;
+    outline-offset: 1px;
+cursor: pointer;
+transition: 0.5s;
+  
+}
+.book:hover 
+{
+    background-color: black;
+    color: white;
+}
+.smth 
+{
+    color: black;
+    font-size: 19px;
+    font-weight: bold;
+   
+}
+.c 
+{
+    text-align: center;
+}
+.iza 
+{
+    padding-bottom: 0;
+}
     }
